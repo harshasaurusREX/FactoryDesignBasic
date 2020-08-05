@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596399445 source:d:\work\factoryclass\vshape.cpp
+	"vshape.h"
+	<iostream>
+
+1596399634 d:\work\factoryclass\vshape.h
+	<iostream>
+
+1596399329 source:d:\work\factoryclass\main.cpp
+	<iostream>
+	"vshape.h"
+
